@@ -1,5 +1,6 @@
 # Ignore Python virtual environment
 doom_venv/
+venv/
 
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
